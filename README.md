@@ -7,7 +7,7 @@ Make sure to install the dependancies:
 
 then pull submodules (for pushbullet support)
 
-`git submodule pull`
+`git submodule update --init --recursive`
 
 Now make a pushbullet config file:
 
