@@ -1,0 +1,3 @@
+[submodule "pushbullet-bash"]
+	path = pushbullet-bash
+	url = https://github.com/Red5d/pushbullet-bash.git
